@@ -17,13 +17,10 @@ I'm passionate about writing efficient, maintainable code and continuously impro
 system performance. Whether working independently or leading a team, I bring a
 problem-solving mindset and a strong commitment to delivering high-quality software
 on time and at scale.
-```
+
 
 ---
 
-انسخه وحطه محل الوصف القصير. بدك تعدل عليه؟
-
----
 
 ## 🛠️ Skills
 
