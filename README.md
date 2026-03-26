@@ -2,9 +2,26 @@
 
 ### Full Stack Web Developer 
 
-Software Engineer with 4+ years of experience building scalable web applications,
-RESTful APIs, and secure backend systems. Passionate about performance optimization,
-database architecture, and delivering production-ready solutions.
+---
+
+Software Engineer and Full Stack Laravel Developer with 4+ years of experience
+designing and building scalable web applications, RESTful APIs, and secure backend
+systems. 
+
+I specialize in Laravel backend architecture, database design and optimization,
+and RESTful API development. I have hands-on experience integrating blockchain-based
+verification systems, improving API performance by up to 30%, and reducing system
+errors through clean code practices and rigorous code reviews.
+
+I'm passionate about writing efficient, maintainable code and continuously improving
+system performance. Whether working independently or leading a team, I bring a
+problem-solving mindset and a strong commitment to delivering high-quality software
+on time and at scale.
+```
+
+---
+
+انسخه وحطه محل الوصف القصير. بدك تعدل عليه؟
 
 ---
 
