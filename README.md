@@ -1,6 +1,6 @@
 # Hi, I'm Mohammed Fannana 👋
 
-### Full Stack Laravel Developer | 4+ Years Experience | Open to Remote Opportunities
+### Full Stack Web Developer 
 
 Software Engineer with 4+ years of experience building scalable web applications,
 RESTful APIs, and secure backend systems. Passionate about performance optimization,
