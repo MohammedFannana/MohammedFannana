@@ -2,8 +2,6 @@
 
 ### Full Stack Web Developer 
 
----
-
 Software Engineer and Full Stack Laravel Developer with 4+ years of experience
 designing and building scalable web applications, RESTful APIs, and secure backend
 systems. 
