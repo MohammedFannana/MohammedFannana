@@ -54,14 +54,6 @@ A full-featured educational platform for course management and enrollment.
 
 ---
 
-## 📊 GitHub Stats
-
-![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 📬 Contact Me
 
 - 📧 Email: mohamed.fannana10@gmail.com
