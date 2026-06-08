@@ -16,9 +16,9 @@
 
 **I'm available for new opportunities — let's build something great together.**
 
-**Name: Mohammed Fannana**
-**📧 Email: mohamed.fannana10@gmail.com**
-**📱 Phone: +972 592 851 883**
+**👤 Name: Mohammed Fannana**<br>
+**📧 Email: mohamed.fannana10@gmail.com**<br>
+**📱 Phone: +972 592 851 883**<br>
 **💼 LinkedIn: [linkedin.com/in/mohammed-fannana](https://linkedin.com/in/mohammed-fannana)**
 
 
